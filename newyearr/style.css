@@ -91,7 +91,6 @@ main {
     background-repeat: no-repeat;
     margin: auto;
     display: flex;
-
 }
 
 .midtitel {
@@ -199,7 +198,6 @@ span {
     color: #F00;
     font-size: 24px;
     position: relative;
-
 }
 
 .cson {
@@ -207,7 +205,6 @@ span {
     font-size: 45px;
     font-style: normal;
     font-weight: 900;
-
 }
 
 .potkapar {
@@ -215,7 +212,6 @@ span {
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
-
 }
 
 .elli {
@@ -228,7 +224,6 @@ span {
 }
 
 .elli1 {
-
     border: 15px solid #F00;
     border-radius: 50%;
     align-items: center;
@@ -238,7 +233,6 @@ span {
     /* align-items: center;
     border-radius: 50%;
     border: 15px solid #F00; */
-
 }
 
 .elli1 img {
@@ -415,8 +409,6 @@ section {
     display: flex;
     bottom: 40px;
     left: 250px;
-
-
 }
 
 .inmail1 {
@@ -424,7 +416,6 @@ section {
     border-radius: 50px 0 0 50px;
     text-align: center;
     border: none;
-
 }
 
 .buts .inmail {
@@ -438,6 +429,10 @@ section {
     border-radius: 0 50px 50px 0;
     border: none;
 }
+/* ==============End ============== */
+
+
+/* ==============foter start============== */
 
 .fotersec {
     height: 620px;
